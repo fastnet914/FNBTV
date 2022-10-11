@@ -12,22 +12,22 @@ http://10.252.253.254/hls/indepen.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W4pywkFh/Ekattor-TV.png" group-title="Bangla", Ekattor TV
 http://10.252.253.254/hls/nexus.m3u8
 
-#EXTINF:-1 tvg-logo="https://ibb.co/318hxvj" group-title="Bangla", Channel I
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MKW1TbhM/Channel-I.png" group-title="Bangla", Channel I
 http://10.252.253.254/hls/channeli.m3u8
 
-#EXTINF:-1 tvg-logo="https://ibb.co/64V6W9m" group-title="Bangla", Nagorik
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCDzSKvd/Nagorik.png" group-title="Bangla", Nagorik
 http://10.252.253.254/hls/nagoriktv.m3u8
 
-#EXTINF:-1 tvg-logo="https://ibb.co/Kh5Xn33" group-title="Bangla", Bangla Vision
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Gh7Tp0FV/Bangla-Vision.png" group-title="Bangla", Bangla Vision
 http://10.252.253.254/hls/banglavision.m3u8
 
-#EXTINF:-1 tvg-logo="https://ibb.co/zsvmTy7" group-title="Bangla", ATN Bangla
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wjnthhbk/ATN-Bangla.png" group-title="Bangla", ATN Bangla
 http://10.252.253.254/hls/atn.m3u8
 
-#EXTINF:-1 tvg-logo="https://ibb.co/2kJGGg6" group-title="Bangla", ATN News
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pXTy40wZ/ATN-News.png" group-title="Bangla", ATN News
 http://10.252.253.254/hls/atn-news.m3u8
 
-#EXTINF:-1 tvg-logo="https://ibb.co/zmy71DC" group-title="Bangla", Masranga
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1Xz5xtjt/Maasranga-TV.png" group-title="Bangla", Masranga
 http://10.252.253.254/hls/masranga.m3u8
 
 #EXTINF:-1 tvg-logo="https://ibb.co/tcPW4yt" group-title="Bangla", Sony Aath
