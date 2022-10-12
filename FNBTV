@@ -30,6 +30,9 @@ http://10.252.253.254/hls/atn-news.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1Xz5xtjt/Maasranga-TV.png" group-title="Bangla", Masranga
 http://10.252.253.254/hls/masranga.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7ZYTsmq1/Jamuna-TV.png" group-title="Bangla", Jamuna TV
+http://10.252.253.254/hls/jamuna.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xTQYC9n1/Sony-Aath.png" group-title="Bangla", Sony Aath
 http://10.252.253.254/hls/Sony_Aath.m3u8
 
@@ -47,6 +50,9 @@ http://10.252.253.254/hls/zee-bangla-cinema.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RZjgSZxP/Jalsha-Movies-HD.png" group-title="Bangla", Jalsha Movies HD
 http://10.252.253.254/hls/jalshamovies.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SNzzwJ9R/Colors-Bangla-Cinema.png" group-title="Bangla", Colores Bangla Cinema
+http://10.252.253.254/hls/colore-bangla-cinema.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5yK0ctkg/Sony-Pix.png" group-title="English", Sony Pix HD
 http://10.252.253.254/hls/sonypixhd.m3u8
@@ -129,53 +135,65 @@ http://172.27.27.3:8088/hls/15_ptv_sports.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3ws7vckK/Sky-Sports.png" group-title="Sports", Sky Sports
 http://172.27.27.3:8088/hls/06_T-SportsBD.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Kids", Sony YaY!
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pV8pV30X/Sony-Ya-Y.png" group-title="Kids", Sony YaY!
 http://10.252.253.254/hls/dis-kid.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Kids", Nick
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rp3wM9xr/Nick.png" group-title="Kids", Nick
 http://10.252.253.254/hls/nick.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Kids", Cartoon Network
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qM10pLdv/CN.png" group-title="Kids", Cartoon Network
 http://10.252.253.254/hls/cn.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Kids", Pogo
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Cxtgqx5y/Pogo.png" group-title="Kids", Pogo
 http://10.252.253.254/hls/pogo.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Kids", Duranta
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sDHFkgpB/Duronto.png" group-title="Kids", Duranta
 http://10.252.253.254/hls/duranta.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Info", Animal Planet HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5tvZQ5Dv/Animal-Planet.png" group-title="Info", Animal Planet HD
 http://10.252.253.254/hls/animalplanent.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Info", Discovery HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kGMZH0GF/Discovery.png" group-title="Info", Discovery HD
 http://10.252.253.254/hls/discovery.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Info", Discovery Science
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DyMDCYTL/Discovery-SC.png" group-title="Info", Discovery Science
 http://10.252.253.254/hls/dis-science.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Info", Nat Geo HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bJgV1mgG/Net-Geo.png" group-title="Info", Nat Geo HD
 http://10.252.253.254/hls/ngohd.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Info", BBC Earth
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Wzf9HtQT/Net-Geo-Wild.png" group-title="Info", Nat Geo Wild
+http://10.252.253.254/hls/wild.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NfSJ896x/Travel-XP.png" group-title="Info", Travel XP
+http://10.252.253.254/hls/travelxp.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/k5dTZ0h6/TLC-HD.png" group-title="Info", TLC HD
+http://10.252.253.254/hls/tlc.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/k4JfMxC7/BBC-Earth.png" group-title="Info", BBC Earth
 http://10.252.253.254/hls/bbcearth.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Info", Al Jazeera
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yxWjcsW5/Al-Jajira.png" group-title="Info", Al Jazeera
 http://10.252.253.254/hls/aljazeera.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Music", Masti
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bvhstgsf/Masti.png" group-title="Music", Masti
 http://10.252.253.254/hls/masti.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Music", Zoom
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/D08ZTYYL/Zoom.png" group-title="Music", Zoom
 http://10.252.253.254/hls/zoom.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Music", 9xm
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L8zs2PvC/9xm.png" group-title="Music", 9xm
 http://10.252.253.254/hls/9xm.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Music", Gaan Bangla
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/LsD6ZMcj/Gaan-Bangla.png" group-title="Music", Gaan Bangla
 http://10.252.253.254/hls/gb.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Islamic", Quran TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yxgV53kT/S-Bangla.png" group-title="Music", Sangeet Bangla
+http://10.252.253.254/hls/sangeetbangla.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c43xBYqx/Quraan-TV.png" group-title="Islamic", Quran TV
 http://10.252.253.254/hls/qurqntv.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Islamic", Madani Chennel Bangla
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pdWPv6mr/Madani.png" group-title="Islamic", Madani Chennel Bangla
 http://10.252.253.254/hls/madani.m3u8
