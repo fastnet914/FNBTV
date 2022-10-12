@@ -30,40 +30,40 @@ http://10.252.253.254/hls/atn-news.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1Xz5xtjt/Maasranga-TV.png" group-title="Bangla", Masranga
 http://10.252.253.254/hls/masranga.m3u8
 
-#EXTINF:-1 tvg-logo="https://ibb.co/tcPW4yt" group-title="Bangla", Sony Aath
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTQYC9n1/Sony-Aath.png" group-title="Bangla", Sony Aath
 http://10.252.253.254/hls/Sony_Aath.m3u8
 
-#EXTINF:-1 tvg-logo="https://ibb.co/hm92PLC" group-title="Bangla", Zee Bangla HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/K8v2PQKX/Zee-Bangla-HD.png" group-title="Bangla", Zee Bangla HD
 http://10.252.253.254/hls/zeebanglahd.m3u8
 
-#EXTINF:-1 tvg-logo="https://ibb.co/BzPG8dK" group-title="Bangla", Colors Bangla HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4xcPv5j/Colors-Bangla-HD.png" group-title="Bangla", Colors Bangla HD
 http://10.252.253.254/hls/colorsbangla.m3u8
 
-#EXTINF:-1 tvg-logo="https://ibb.co/9WbhMRX" group-title="Bangla", Star Jalsha 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yYnq89LL/Star-Jalsha.png" group-title="Bangla", Star Jalsha 
 http://10.252.253.254/hls/starjalsha.m3u8
 
-#EXTINF:-1 tvg-logo="https://ibb.co/BnQ6fyr" group-title="Bangla", Zee Bangla Cinema
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8ctyNdTW/Zee-Bangla-Cinema.png" group-title="Bangla", Zee Bangla Cinema
 http://10.252.253.254/hls/zee-bangla-cinema.m3u8
 
-#EXTINF:-1 tvg-logo="https://ibb.co/7Kr5p5V" group-title="Bangla", Jalsha Movies HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RZjgSZxP/Jalsha-Movies-HD.png" group-title="Bangla", Jalsha Movies HD
 http://10.252.253.254/hls/jalshamovies.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="English", Sony Pix HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5yK0ctkg/Sony-Pix.png" group-title="English", Sony Pix HD
 http://10.252.253.254/hls/sonypixhd.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="English", Star Movies
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W1k4KTmm/Star-Movies.png" group-title="English", Star Movies
 http://10.252.253.254/hls/starmovies.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="English", MNX HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5t524gR6/MNX.png" group-title="English", MNX HD
 http://10.252.253.254/hls/mnx-hd.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="English", AXN
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/k4nXBS0w/AXN.png" group-title="English", AXN
 http://10.252.253.254/hls/axn.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="English", MBC 2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/prS2G6p1/MBC-2.png" group-title="English", MBC 2
 http://10.252.253.254/hls/mbc.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="English", Lotus Macau
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HWvskVB4/Lotus-Macau.png" group-title="English", Lotus Macau
 http://10.252.253.254/hls/lotus.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Hindi", Sony HD
