@@ -87,46 +87,46 @@ http://10.252.253.254/hls/andpictures.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d1JhMpnW/Star-Gold.png" group-title="Hindi", Star Gold
 http://10.252.253.254/hls/stargold2hd.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Sports", Sony Ten 1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0JBj0cr/Ten-1.png" group-title="Sports", Sony Ten 1
 http://10.252.253.254/hls/sonyten1.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Sports", Sony Ten 2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x1Z6jrZ1/Ten-2.png" group-title="Sports", Sony Ten 2
 http://10.252.253.254/hls/sonyten2.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Sports", Sony Ten 3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cLvcb9Jy/Ten-3.png" group-title="Sports", Sony Ten 3
 http://10.252.253.254/hls/sonyten3.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Sports", Sony Six
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zBFwg4xW/Ten-Six.png" group-title="Sports", Sony Six
 http://10.252.253.254/hls/sonysix.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Sports", Ten Sports
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/65mrnrfH/Ten-Sports.png" group-title="Sports", Ten Sports
 http://10.252.253.254/hls/ten.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Sports", Star Sports 1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/02wQX7qX/Star-Sports-1.png" group-title="Sports", Star Sports 1
 http://10.252.253.254/hls/stersports1hd.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Sports", Star Sports 2 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FK9HKqkw/Star-Sports-2.png" group-title="Sports", Star Sports 2 
 http://10.252.253.254/hls/starsports2.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Sports", Star Sports 3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sxp2xRKd/Star-Sports-3.png" group-title="Sports", Star Sports 3
 http://10.252.253.254/hls/starsports3.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Sports", Star Sports Select 1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQB6G4X2/Star-Select-HD-1.png" group-title="Sports", Star Sports Select 1
 http://10.252.253.254/hls/Star_Sport_Select1HD.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Sports", Star Sports Select 2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DwCw86QZ/Star-Select-HD-2.png" group-title="Sports", Star Sports Select 2
 http://10.252.253.254/hls/select2.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Sports", Bein Sports 1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/6Qg6hQmx/Bein-Sports-1.png" group-title="Sports", Bein Sports 1
 http://10.252.253.254/hls/bein1.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Sports", T Sports
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qxh8mw0C/T-Sports.png" group-title="Sports", T Sports
 http://172.27.27.3:8088/hls/02_IndependentTv.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Sports", PTV Sports
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4x3JktCT/PTV-Sports.png" group-title="Sports", PTV Sports
 http://172.27.27.3:8088/hls/15_ptv_sports.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Sports", Sky Sports
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3ws7vckK/Sky-Sports.png" group-title="Sports", Sky Sports
 http://172.27.27.3:8088/hls/06_T-SportsBD.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Kids", Sony YaY!
