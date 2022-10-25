@@ -231,7 +231,7 @@ http://10.252.253.254/hls/qurqntv.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pdWPv6mr/Madani.png" group-title="Islamic", Madani Chennel Bangla
 http://10.252.253.254/hls/madani.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Test Server-1", TV-01
+#EXTINF:-1 tvg-logo="" group-title=" Test Server-1", TV-01
 http://10.100.100.140:8081/dugdugi/gazi/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title=" Test Server-1", TV-02
@@ -240,7 +240,7 @@ http://10.100.100.140:8081/dugdugi/sonysix/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title=" Test Server-1", TV-03
 http://10.100.100.140:8081/dugdugi/ten1/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title=" Test  Server-1", TV-04
+#EXTINF:-1 tvg-logo="" group-title=" Test Server-1", TV-04
 http://10.100.100.140:8081/dugdugi/ten2/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title=" Test Server-1", TV-05
