@@ -231,35 +231,35 @@ http://10.252.253.254/hls/qurqntv.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pdWPv6mr/Madani.png" group-title="Islamic", Madani Chennel Bangla
 http://10.252.253.254/hls/madani.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title=" Test Server-1", TV-01
+#EXTINF:-1 tvg-logo="" group-title=" Test_Server", TV-01
 http://10.100.100.140:8081/dugdugi/gazi/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title=" Test Server-1", TV-02
+#EXTINF:-1 tvg-logo="" group-title=" Test_Server", TV-02
 http://10.100.100.140:8081/dugdugi/sonysix/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title=" Test Server-1", TV-03
+#EXTINF:-1 tvg-logo="" group-title=" Test_Server", TV-03
 http://10.100.100.140:8081/dugdugi/ten1/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title=" Test Server-1", TV-04
+#EXTINF:-1 tvg-logo="" group-title=" Test_Server", TV-04
 http://10.100.100.140:8081/dugdugi/ten2/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title=" Test Server-1", TV-05
+#EXTINF:-1 tvg-logo="" group-title=" Test_Server", TV-05
 http://10.100.100.140:8081/dugdugi/ten3/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title=" Test Server-1", TV-06
+#EXTINF:-1 tvg-logo="" group-title=" Test_Server", TV-06
 http://10.100.100.140:8081/dugdugi/starsports1/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title=" Test Server-1", TV-07
+#EXTINF:-1 tvg-logo="" group-title=" Test_Server", TV-07
 http://10.100.100.140:8081/dugdugi/ptv/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title=" Test Server-1", TV-08
+#EXTINF:-1 tvg-logo="" group-title=" Test_Server", TV-08
 http://10.100.100.140:8081/dugdugi/sonymax/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title=" Test Server-1", TV-09
+#EXTINF:-1 tvg-logo="" group-title=" Test_Server", TV-09
 http://10.100.100.140:8081/dugdugi/starmovies/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title=" Test Server-1", TV-10
+#EXTINF:-1 tvg-logo="" group-title=" Test_Server", TV-10
 http://10.100.100.140:8081/dugdugi/andflix/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title=" Test Server-1", TV-11
+#EXTINF:-1 tvg-logo="" group-title=" Test_Server", TV-11
 http://10.100.100.140:8081/dugdugi/sonypix/chunks.m3u8
