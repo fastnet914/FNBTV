@@ -1,10 +1,40 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hGR81WXv/GTV.png" group-title="Backup", GTV
+http://172.27.27.3:8088/hls/01_Gazitv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qxh8mw0C/T-Sports.png" group-title="Backup", T Sports
+http://172.27.27.3:8088/hls/02_IndependentTv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0JBj0cr/Ten-1.png" group-title="Backup", Sony Ten 1
+http://172.27.27.3:8088/hls/03_Sonyten1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x1Z6jrZ1/Ten-2.png" group-title="Backup", Sony Ten 2
+http://172.27.27.3:8088/hls/04_Sonyten2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/02wQX7qX/Star-Sports-1.png" group-title="Backup", Star Sports 1
+http://172.27.27.3:8088/hls/07_StarSports1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DwCw86QZ/Star-Select-HD-2.png" group-title="Backup", Star Sports Select 2
+http://172.27.27.3:8088/hls/08StarSports2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4x3JktCT/PTV-Sports.png" group-title="Backup", PTV Sports
+http://172.27.27.3:8088/hls/15_ptv_sports.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/K8v2PQKX/Zee-Bangla-HD.png" group-title="Backup", Zee Bangla HD Backup
+http://172.27.27.3:8088/hls/12_ZeeBangla.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yYnq89LL/Star-Jalsha.png" group-title="Backup", Star Jalsha Backup
+http://172.27.27.3:8088/hls/10_StarJalsha.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PrQFTwt2/Sony-Max.png" group-title="Backup", Sony Max Backup
+http://172.27.27.3:8088/hls/14_SonyMax.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QCbkGcp7/Star-Plus-HD.png" group-title="Backup", Star Plus Backup
+http://172.27.27.3:8088/hls/09_StarPlus.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hGR81WXv/GTV.png" group-title="Bangla", GTV
 http://10.252.253.254/hls/Gazi-TV.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/hGR81WXv/GTV.png" group-title="Bangla", GTV Backup
-http://172.27.27.3:8088/hls/01_Gazitv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fRcCFRnm/Somoy-TV.png" group-title="Bangla", Somoy TV
 http://10.252.253.254/hls/somoy.m3u8
@@ -42,17 +72,11 @@ http://10.252.253.254/hls/Sony_Aath.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/K8v2PQKX/Zee-Bangla-HD.png" group-title="Bangla", Zee Bangla HD
 http://10.252.253.254/hls/zeebanglahd.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/K8v2PQKX/Zee-Bangla-HD.png" group-title="Bangla", Zee Bangla HD Backup
-http://172.27.27.3:8088/hls/12_ZeeBangla.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W4xcPv5j/Colors-Bangla-HD.png" group-title="Bangla", Colors Bangla HD
 http://10.252.253.254/hls/colorsbangla.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yYnq89LL/Star-Jalsha.png" group-title="Bangla", Star Jalsha 
 http://10.252.253.254/hls/starjalsha.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/yYnq89LL/Star-Jalsha.png" group-title="Bangla", Star Jalsha Backup
-http://172.27.27.3:8088/hls/10_StarJalsha.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8ctyNdTW/Zee-Bangla-Cinema.png" group-title="Bangla", Zee Bangla Cinema
 http://10.252.253.254/hls/zee-bangla-cinema.m3u8
@@ -87,17 +111,11 @@ http://10.252.253.254/hls/sonyen.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PrQFTwt2/Sony-Max.png" group-title="Hindi", Sony Max HD
 http://10.252.253.254/hls/sony-maxhd.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/PrQFTwt2/Sony-Max.png" group-title="Hindi", Sony Max Backup
-http://172.27.27.3:8088/hls/14_SonyMax.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hvbMDkqf/Sony-Sab.png" group-title="Hindi", Sony SAB
 http://172.27.27.3:8088/hls/16_SonySAB.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QCbkGcp7/Star-Plus-HD.png" group-title="Hindi", Star Plus HD
 http://10.252.253.254/hls/starplus.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QCbkGcp7/Star-Plus-HD.png" group-title="Hindi", Star Plus Backup
-http://172.27.27.3:8088/hls/09_StarPlus.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZqpNzrmq/Colors-HD.png" group-title="Hindi", Colors HD
 http://10.252.253.254/hls/colore-tv-hd.m3u8
@@ -212,3 +230,36 @@ http://10.252.253.254/hls/qurqntv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pdWPv6mr/Madani.png" group-title="Islamic", Madani Chennel Bangla
 http://10.252.253.254/hls/madani.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Test Server-1", TV-01
+http://10.100.100.140:8081/dugdugi/gazi/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title=" Test Server-1", TV-02
+http://10.100.100.140:8081/dugdugi/sonysix/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title=" Test Server-1", TV-03
+http://10.100.100.140:8081/dugdugi/ten1/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title=" Test  Server-1", TV-04
+http://10.100.100.140:8081/dugdugi/ten2/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title=" Test Server-1", TV-05
+http://10.100.100.140:8081/dugdugi/ten3/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title=" Test Server-1", TV-06
+http://10.100.100.140:8081/dugdugi/starsports1/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title=" Test Server-1", TV-07
+http://10.100.100.140:8081/dugdugi/ptv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title=" Test Server-1", TV-08
+http://10.100.100.140:8081/dugdugi/sonymax/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title=" Test Server-1", TV-09
+http://10.100.100.140:8081/dugdugi/starmovies/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title=" Test Server-1", TV-10
+http://10.100.100.140:8081/dugdugi/andflix/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title=" Test Server-1", TV-11
+http://10.100.100.140:8081/dugdugi/sonypix/chunks.m3u8
