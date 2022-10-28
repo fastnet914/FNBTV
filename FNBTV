@@ -237,35 +237,86 @@ http://10.252.253.254/hls/qurqntv.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pdWPv6mr/Madani.png" group-title="Islamic", Madani Chennel Bangla
 http://10.252.253.254/hls/madani.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title=" Test_Server", TV-01
-http://10.100.100.140:8081/dugdugi/gazi/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BCIPTV", T-Sports
+http://15.1.5.10:8082/TSPORTS-HD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title=" Test_Server", TV-02
-http://10.100.100.140:8081/dugdugi/sonysix/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BCIPTV", PTV Sports
+http://15.1.5.10:8082/PTV-SPORTS/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title=" Test_Server", TV-03
-http://10.100.100.140:8081/dugdugi/ten1/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BCIPTV", Star Sports 1
+http://15.1.5.14:8082/STAR-SPORTS-1/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title=" Test_Server", TV-04
-http://10.100.100.140:8081/dugdugi/ten2/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BCIPTV", Sony Pix
+http://15.1.5.10:8082/sony-pix-hd/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title=" Test_Server", TV-05
-http://10.100.100.140:8081/dugdugi/ten3/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BCIPTV", Star Movies HD
+http://15.1.5.10:8082/star-movies-hd/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title=" Test_Server", TV-06
-http://10.100.100.140:8081/dugdugi/starsports1/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BCIPTV", MN+ HD
+http://15.1.5.10:8082/mn-hd/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title=" Test_Server", TV-07
-http://10.100.100.140:8081/dugdugi/ptv/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BCIPTV", SONY HD
+http://15.1.5.10:8082/SonyTVHD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title=" Test_Server", TV-08
-http://10.100.100.140:8081/dugdugi/sonymax/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BCIPTV", SONY SUB HD
+http://15.1.5.10:8082/SONY-SUB/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title=" Test_Server", TV-09
-http://10.100.100.140:8081/dugdugi/starmovies/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BCIPTV", Sony Max HD
+http://15.1.5.14:8082/Sony-Max/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title=" Test_Server", TV-10
-http://10.100.100.140:8081/dugdugi/andflix/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BCIPTV", Star Plus HD
+http://15.1.5.14:8082/star-plus/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title=" Test_Server", TV-11
-http://10.100.100.140:8081/dugdugi/sonypix/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BCIPTV", Star Gold HD
+http://15.1.5.10:8082/star-gold/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="BCIPTV", BTV
+http://15.1.5.10:8082/btv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="BCIPTV", Somoy TV
+http://15.1.5.10:8082/Somoy-TV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="BCIPTV", News24
+http://15.1.5.14:8082/News24bd/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="BDIPTV", T-Sports
+http://bdiptv.net:8282/TSPORTS-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="BDIPTV", PTV Sports
+http://bdiptv.net:8282/PTV-SPORTS/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="BDIPTV", Star Sports 1
+http://bdiptv.net:8282/STAR-SPORTS-1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="BDIPTV", Sony Pix
+http://bdiptv.net:8282/sony-pix-hd/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="BDIPTV", Star Movies HD
+http://bdiptv.net:8282/star-movies-hd/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="BDIPTV", MN+ HD
+http://bdiptv.net:8282/mn-hd/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="BDIPTV", SONY HD
+http://bdiptv.net:8282/SonyTVHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="BDIPTV", SONY SUB HD
+http://bdiptv.net:8282/SONY-SUB/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="BDIPTV", Sony Max HD
+http://bdiptv.net:8282/Sony-Max/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="BDIPTV", Star Plus HD
+http://bdiptv.net:8282/star-plus/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="BDIPTV", Star Gold HD
+http://bdiptv.net:8282/star-gold/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="BDIPTV", BTV
+http://bdiptv.net:8282/btv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="BDIPTV", Somoy TV
+http://bdiptv.net:8282/Somoy-TV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="BDIPTV", News24
+http://bdiptv.net:8282/News24bd/tracks-v1a1/mono.m3u8
