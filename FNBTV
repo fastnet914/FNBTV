@@ -170,6 +170,8 @@ http://15.1.5.14:8082/STAR-SPORTS-1/tracks-v1a1/mono.m3u8
 http://15.1.5.14:8082/STAR-SPORTS-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Z56Q3ppt/Sony-Sports-Ten-1.png" group-title="IPTV-3", Sony Sports Ten 1
 http://15.1.5.10:8082/ten1-hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wxP4G0kY/Sony-Sports-Ten-2.png" group-title="IPTV-3", Sony Sports Ten 2
+http://15.1.5.10:8082/sony-ten2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tTJDrxZg/Sony-Sports-Ten-3.png" group-title="IPTV-3", Sony Sports Ten 3
 http://15.1.5.14:8082/ten3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KYvd24k6/Sony-Sports-Ten-5.png" group-title="IPTV-3", Sony Sports Ten 5
@@ -178,6 +180,8 @@ http://15.1.5.10:8082/sony-six-hd/tracks-v1a1/mono.m3u8
 http://15.1.5.10:8082/Adsports1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cCNgKqSN/AD-Sports-2.png" group-title="IPTV-3", AD Sports 2
 http://15.1.5.10:8082/Adsports2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d3sB7NrD/Dubai-Sports-2.png" group-title="IPTV-3", Dubai Sports 2
+http://15.1.5.10:8082/tv14/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HkLJ84fj/BTV.png" group-title="IPTV-3", BTV
 http://15.1.5.14:8082/btv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Gm92m3yy/DBC-News.png" group-title="IPTV-3", DBC News
@@ -194,6 +198,16 @@ http://15.1.5.14:8082/Channel24/tracks-v1a1/mono.m3u8
 http://15.1.5.14:8082/jamuna-tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MKW1TbhM/Channel-I.png" group-title="IPTV-3", Channel I HD
 http://15.1.5.14:8082/Channel-i/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Gh7Tp0FV/Bangla-Vision.png" group-title="IPTV-3", Bangla Vision
+http://15.1.5.14:8082/BanglaVision/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzH7TjzP/Ntv.png" group-title="IPTV-3", NTV
+http://15.1.5.10:8082/Ntv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3RnGq80J/RTV.png" group-title="IPTV-3", RTV
+http://15.1.5.14:8082/RTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jd9HKSgD/Mohona-TV.png" group-title="IPTV-3", Mohona TV
+http://15.1.5.10:8082/MohonaTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/LskLzBHP/Nagorik-TV.png" group-title="IPTV-3", Nagorik TV
+http://15.1.5.14:8082/nagorik-tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yYnq89LL/Star-Jalsha.png" group-title="IPTV-3", Star Jalsha HD
 http://15.1.5.14:8082/jalsha/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/K8v2PQKX/Zee-Bangla-HD.png" group-title="IPTV-3", Zee Bangla
@@ -240,4 +254,5 @@ http://15.1.5.10:8082/movies-now/tracks-v1a1/mono.m3u8
 http://15.1.5.10:8082/mnx-hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HWvskVB4/Lotus-Macau.png" group-title="IPTV-3", Lotus Macau
 http://15.1.5.10:8082/Lotus-Macau/tracks-v1a1/mono.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9QXx4KmT/Sony-Yay.png" group-title="IPTV-3", Sony YaY!
+http://15.1.5.14:8082/discovery-kid/tracks-v1a1/mono.m3u8
