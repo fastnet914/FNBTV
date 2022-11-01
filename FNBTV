@@ -208,7 +208,7 @@ http://15.1.5.14:8082/jalsha-movies/tracks-v1a1/mono.m3u8
 http://15.1.5.10:8082/colore-bangla-cinema/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4y2JFtM/Sony-TV.png" group-title="IPTV-3", SONY HD
 http://15.1.5.10:8082/SonyTVHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/hvbMDkqf/Sony-Sab.png" group-title="IPTV-3", SONY SUB HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NGPZwgBV/Sony-Sab.png" group-title="IPTV-3", SONY SUB
 http://15.1.5.10:8082/SONY-SUB/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pdft23qj/Sony-Max.png" group-title="IPTV-3", Sony Max HD
 http://15.1.5.14:8082/Sony-Max/tracks-v1a1/mono.m3u8
