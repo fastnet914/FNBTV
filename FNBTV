@@ -8,8 +8,6 @@ http://10.252.253.254/hls/somoy.m3u8
 http://10.252.253.254/hls/nexus.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MKW1TbhM/Channel-I.png" group-title="IPTV-1", Channel I
 http://10.252.253.254/hls/channeli.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/yYnq89LL/Star-Jalsha.png" group-title="IPTV-1", Star Jalsha 
-http://10.252.253.254/hls/starjalsha.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gJz1Gjw9/Sony-Pix.png" group-title="IPTV-1", Sony Pix HD
 http://10.252.253.254/hls/sonypixhd.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4y2JFtM/Sony-TV.png" group-title="IPTV-1", Sony HD
@@ -32,8 +30,6 @@ http://15.1.5.14:8082/Somoy-TV/tracks-v1a1/mono.m3u8
 http://15.1.5.14:8082/Ekattor-tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MKW1TbhM/Channel-I.png" group-title="IPTV-2", Channel I
 http://15.1.5.14:8082/Channel-i/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/yYnq89LL/Star-Jalsha.png" group-title="IPTV-2", Star Jalsha 
-http://15.1.5.14:8082/jalsha/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gJz1Gjw9/Sony-Pix.png" group-title="IPTV-2", Sony Pix HD
 http://15.1.5.10:8082/sony-pix-hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4y2JFtM/Sony-TV.png" group-title="IPTV-2", Sony HD
