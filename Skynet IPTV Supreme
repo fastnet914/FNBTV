@@ -190,6 +190,8 @@ http://15.1.5.14:8082/DBC-NEWS/tracks-v1a1/mono.m3u8
 http://15.1.5.14:8082/Atn-News/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fRcCFRnm/Somoy-TV.png" group-title="IPTV-3", Somoy Tv
 http://15.1.5.14:8082/Somoy-TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4pywkFh/Ekattor-TV.png" group-title="IPTV-3", Ekattor TV
+http://15.1.5.14:8082/Ekattor-tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VLksKs4V/News24.png" group-title="IPTV-3", News24
 http://15.1.5.14:8082/News24bd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cJp6jq68/Channel24.png" group-title="IPTV-3", Channel24
@@ -256,3 +258,9 @@ http://15.1.5.10:8082/mnx-hd/tracks-v1a1/mono.m3u8
 http://15.1.5.10:8082/Lotus-Macau/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9QXx4KmT/Sony-Yay.png" group-title="IPTV-3", Sony YaY!
 http://15.1.5.14:8082/discovery-kid/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sDHFkgpB/Duronto.png" group-title="IPTV-3", Duranta
+http://15.1.5.10:8082/duronto-tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L8zs2PvC/9xm.png" group-title="IPTV-3", 9xm
+http://15.1.5.10:8082/9XM/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/LsD6ZMcj/Gaan-Bangla.png" group-title="IPTV-3", Gaan Bangla
+http://15.1.5.14:8082/GaanBangla/tracks-v1a1/mono.m3u8
