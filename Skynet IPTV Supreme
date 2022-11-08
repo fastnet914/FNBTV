@@ -4,10 +4,6 @@
 http://172.27.27.3:8088/hls/01_Gazitv.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hGR81WXv/GTV.png" group-title="IPTV-1", GTV-2
 http://10.192.0.3:1001/tv_channel/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/hGR81WXv/GTV.png" group-title="IPTV-1", GTV-3
-http://30.30.30.30/live/skyfeed1005/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/hGR81WXv/GTV.png" group-title="IPTV-1", GTV-4
-http://30.30.30.30/live/skyfeed2005/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Qxh8mw0C/T-Sports.png" group-title="IPTV-1", T Sports-1
 http://172.27.27.3:8088/hls/02_IndependentTv.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Qxh8mw0C/T-Sports.png" group-title="IPTV-1", T Sports-2
