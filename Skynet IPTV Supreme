@@ -20,7 +20,9 @@ http://10.192.0.3:1001/tv_channel_4/tracks-v1a1/mono.m3u8
 http://10.192.0.3:1001/tv_channel_3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DwCw86QZ/Star-Select-HD-2.png" group-title="IPTV-1", Star Sports Select 2
 http://172.27.27.3:8088/hls/08StarSports2.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4x3JktCT/PTV-Sports.png" group-title="IPTV-1", PTV Sports
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4x3JktCT/PTV-Sports.png" group-title="IPTV-1", PTV Sports-1
+http://10.192.0.3:1001/tv_channel_3/tracks-v1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4x3JktCT/PTV-Sports.png" group-title="IPTV-1", PTV Sports-2
 http://172.27.27.3:8088/hls/15_ptv_sports.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/K8v2PQKX/Zee-Bangla-HD.png" group-title="IPTV-1", Zee Bangla HD
 http://172.27.27.3:8088/hls/12_ZeeBangla.m3u8
