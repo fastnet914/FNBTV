@@ -2,8 +2,6 @@
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3R8K2MVs/Ty-C-Sports.png" group-title="Fifa World Cup-2022", TyC Sports
 https://d3awnlgqz0szay.cloudfront.net:443/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d3sB7NrD/Dubai-Sports-2.png" group-title="Fifa World Cup-2022", Dubai Sports 2
-http://15.1.5.10:8082/tv14/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Qxh8mw0C/T-Sports.png" group-title="Fifa World Cup-2022", T Sports-1
 http://172.27.27.3:8088/hls/02_IndependentTv.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Qxh8mw0C/T-Sports.png" group-title="Fifa World Cup-2022", T Sports-2
