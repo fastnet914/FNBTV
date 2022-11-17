@@ -1,3 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d3sB7NrD/Dubai-Sports-2.png" group-title="IPTV-3", Dubai Sports 2
 http://15.1.5.10:8082/tv14/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T3kDtHrr/AD-Sports-1.png" group-title="IPTV-3", AD Sports 1
+http://15.1.5.10:8082/Adsports1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cCNgKqSN/AD-Sports-2.png" group-title="IPTV-3", AD Sports 2
+http://15.1.5.10:8082/Adsports2/tracks-v1a1/mono.m3u8
