@@ -16,17 +16,17 @@ http://15.1.5.14:8082/TSPORTS-HD/tracks-v1a1/mono.m3u8
 https://d3awnlgqz0szay.cloudfront.net:443/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T3kDtHrr/AD-Sports-1.png" group-title="Fifa World Cup-2022", Abu Dhabi Sports 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/q7dV65VX/Dubai-Sports-1.png " group-title=" Fifa World Cup-2022", Dubai Sports 1
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/q7dV65VX/Dubai-Sports-1.png " group-title="Fifa World Cup-2022", Dubai Sports 1
 http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/q7dV65VX/Dubai-Sports-1.png " group-title=" Fifa World Cup-2022", Dubai Sports 1 HD
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/q7dV65VX/Dubai-Sports-1.png " group-title="Fifa World Cup-2022", Dubai Sports 1 HD
 http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports/chunklist_b2000000.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d3sB7NrD/Dubai-Sports-2.png" group-title=" Fifa World Cup-2022", Dubai Sports 2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d3sB7NrD/Dubai-Sports-2.png" group-title="Fifa World Cup-2022", Dubai Sports 2
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d3sB7NrD/Dubai-Sports-2.png" group-title=" Fifa World Cup-2022", Dubai Sports 2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d3sB7NrD/Dubai-Sports-2.png" group-title="Fifa World Cup-2022", Dubai Sports 2
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8?2957056943
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/6qD2rXhp/Dubai-Sports-3.png" group-title=" Fifa World Cup-2022", Dubai Sports 3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/6qD2rXhp/Dubai-Sports-3.png" group-title="Fifa World Cup-2022", Dubai Sports 3
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/6qD2rXhp/Dubai-Sports-3.png" group-title=" Fifa World Cup-2022", Dubai Sports 3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/6qD2rXhp/Dubai-Sports-3.png" group-title="Fifa World Cup-2022", Dubai Sports 3
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1300000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hGR81WXv/GTV.png" group-title="IPTV-1", GTV-1
