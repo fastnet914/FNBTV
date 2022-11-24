@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/11677/logo/240x240/mobile_logo_175497001669223982.png" group-title="Fifa World Cup-2022", Toffee Live
+https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-1/master_1000.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hGR81WXv/GTV.png" group-title="Fifa World Cup-2022", GTV-1
 http://172.27.27.3:8088/hls/01_Gazitv.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hGR81WXv/GTV.png" group-title="Fifa World Cup-2022", GTV-2
