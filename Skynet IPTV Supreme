@@ -1,76 +1,25 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWyoiMO407RGiNGiDMLJq_LTBz_eg3fJ-5QSIlrcY7gfzDlm7MLwdd5vYvwvGufL4QYto&usqp=CAU" group-title="Fifa World Cup-2022", Fifa 2022
+#EXTINF:-1 tvg-logo="" group-title="IPTV-1", Skynet
 http://103.143.243.74:8080/memfs/befcf876-c30b-481f-8495-e62eeb8e28ee.m3u8
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/11677/logo/240x240/mobile_logo_175497001669223982.png" group-title="Fifa World Cup-2022", Toffee Live
-https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-1/master_1000.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/hGR81WXv/GTV.png" group-title="Fifa World Cup-2022", GTV-1
-http://172.27.27.3:8088/hls/01_Gazitv.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/hGR81WXv/GTV.png" group-title="Fifa World Cup-2022", GTV-2
-http://10.192.0.3:1001/tv_channel/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qxh8mw0C/T-Sports.png" group-title="Fifa World Cup-2022", T Sports-1
-http://172.27.27.3:8088/hls/02_IndependentTv.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qxh8mw0C/T-Sports.png" group-title="Fifa World Cup-2022", T Sports-2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qxh8mw0C/T-Sports.png" group-title="IPTV-1", BTV
 http://10.192.0.3:1001/tv_channel_2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qxh8mw0C/T-Sports.png" group-title="Fifa World Cup-2022", T Sports-3
-http://172.27.27.3:8088/hls/02_IndependentTv.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qxh8mw0C/T-Sports.png" group-title="Fifa World Cup-2022", T Sports-4
-http://15.1.5.14:8082/TSPORTS-HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZKkTGR9Y/Sports-18.png" group-title="Fifa World Cup-2022", Sports 18 HD
-http://15.1.5.10:8082/1LIVE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZKkTGR9Y/Sports-18.png" group-title="Fifa World Cup-2022", Sports 18 SD
-http://15.1.5.10:8082/GAZI-TV-HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZKkTGR9Y/Sports-18.png" group-title="Fifa World Cup-2022", Sports 18
-http://15.1.5.22:8082/TSPORTS-HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3R8K2MVs/Ty-C-Sports.png" group-title="Fifa World Cup-2022", TyC Sports
-https://d3awnlgqz0szay.cloudfront.net:443/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/T3kDtHrr/AD-Sports-1.png" group-title="Fifa World Cup-2022", Abu Dhabi Sports 1
-https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/q7dV65VX/Dubai-Sports-1.png " group-title="Fifa World Cup-2022", Dubai Sports 1
-http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/q7dV65VX/Dubai-Sports-1.png " group-title="Fifa World Cup-2022", Dubai Sports 1 HD
-http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports/chunklist_b2000000.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d3sB7NrD/Dubai-Sports-2.png" group-title="Fifa World Cup-2022", Dubai Sports 2
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d3sB7NrD/Dubai-Sports-2.png" group-title="Fifa World Cup-2022", Dubai Sports 2
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8?2957056943
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/6qD2rXhp/Dubai-Sports-3.png" group-title="Fifa World Cup-2022", Dubai Sports 3
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/6qD2rXhp/Dubai-Sports-3.png" group-title="Fifa World Cup-2022", Dubai Sports 3
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1300000.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/hGR81WXv/GTV.png" group-title="IPTV-1", GTV-1
-http://172.27.27.3:8088/hls/01_Gazitv.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/hGR81WXv/GTV.png" group-title="IPTV-1", GTV-2
-http://10.192.0.3:1001/tv_channel/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qxh8mw0C/T-Sports.png" group-title="IPTV-1", T Sports-1
-http://172.27.27.3:8088/hls/02_IndependentTv.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qxh8mw0C/T-Sports.png" group-title="IPTV-1", T Sports-2
-http://10.192.0.3:1001/tv_channel_2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Z56Q3ppt/Sony-Sports-Ten-1.png" group-title="IPTV-1", Sony Sports Ten 1
-http://172.27.27.3:8088/hls/03_Sonyten1.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wxP4G0kY/Sony-Sports-Ten-2.png" group-title="IPTV-1", Sony Sports Ten 2
-http://172.27.27.3:8088/hls/04_Sonyten2.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/02wQX7qX/Star-Sports-1.png" group-title="IPTV-1", Star Sports 1
-http://172.27.27.3:8088/hls/07_StarSports1.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/02wQX7qX/Star-Sports-1.png" group-title="IPTV-1", Star Sports 1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hGR81WXv/GTV.png" group-title="IPTV-1", GTV
 http://10.192.0.3:1001/tv_channel_4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQB6G4X2/Star-Select-HD-1.png" group-title="IPTV-1", Star Sports Select 1
-http://10.192.0.3:1001/tv_channel_3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/DwCw86QZ/Star-Select-HD-2.png" group-title="IPTV-1", Star Sports Select 2
-http://172.27.27.3:8088/hls/08StarSports2.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4x3JktCT/PTV-Sports.png" group-title="IPTV-1", PTV Sports-1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qxh8mw0C/T-Sports.png" group-title="IPTV-1", T Sports-1
+http://10.192.0.3:1001/tv_channel/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qxh8mw0C/T-Sports.png" group-title="IPTV-1", T Sports-2
 http://10.192.0.3:1001/tv_channel_3/tracks-v1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4x3JktCT/PTV-Sports.png" group-title="IPTV-1", PTV Sports-2
-http://172.27.27.3:8088/hls/15_ptv_sports.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/K8v2PQKX/Zee-Bangla-HD.png" group-title="IPTV-1", Zee Bangla HD
-http://172.27.27.3:8088/hls/12_ZeeBangla.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/yYnq89LL/Star-Jalsha.png" group-title="IPTV-1", Star Jalsha
-http://172.27.27.3:8088/hls/10_StarJalsha.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/pdft23qj/Sony-Max.png" group-title="IPTV-1", Sony Max
-http://172.27.27.3:8088/hls/14_SonyMax.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QCbkGcp7/Star-Plus-HD.png" group-title="IPTV-1", Star Plus
-http://172.27.27.3:8088/hls/09_StarPlus.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qxh8mw0C/T-Sports.png" group-title="IPTV-1", T Sports-3
+http://10.192.0.3:1001/tv_channel_3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T3kDtHrr/AD-Sports-1.png" group-title="IPTV-1", Abu Dhabi Sports 1
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/q7dV65VX/Dubai-Sports-1.png " group-title="IPTV-1", Dubai Sports 1
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d3sB7NrD/Dubai-Sports-2.png" group-title="IPTV-1", Dubai Sports 2
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/6qD2rXhp/Dubai-Sports-3.png" group-title="IPTV-1", Dubai Sports 3
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1300000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Z56Q3ppt/Sony-Sports-Ten-1.png" group-title="IPTV-2", Sony Sports Ten 1
 http://10.252.253.254/hls/sonyten1.m3u8
@@ -96,10 +45,6 @@ http://10.252.253.254/hls/select2.m3u8
 http://10.252.253.254/hls/bein1.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Qxh8mw0C/T-Sports.png" group-title="IPTV-2", T Sports
 http://172.27.27.3:8088/hls/02_IndependentTv.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4x3JktCT/PTV-Sports.png" group-title="IPTV-2", PTV Sports
-http://172.27.27.3:8088/hls/15_ptv_sports.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3ws7vckK/Sky-Sports.png" group-title="IPTV-2", Sky Sports
-http://172.27.27.3:8088/hls/06_T-SportsBD.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hGR81WXv/GTV.png" group-title="IPTV-2", GTV
 http://10.252.253.254/hls/Gazi-TV.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fRcCFRnm/Somoy-TV.png" group-title="IPTV-2", Somoy TV
@@ -152,8 +97,6 @@ http://10.252.253.254/hls/lotus.m3u8
 http://10.252.253.254/hls/sonyen.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pdft23qj/Sony-Max.png" group-title="IPTV-2", Sony Max HD
 http://10.252.253.254/hls/sony-maxhd.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NGPZwgBV/Sony-Sab.png" group-title="IPTV-2", Sony SAB
-http://172.27.27.3:8088/hls/16_SonySAB.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QCbkGcp7/Star-Plus-HD.png" group-title="IPTV-2", Star Plus HD
 http://10.252.253.254/hls/starplus.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZqpNzrmq/Colors-HD.png" group-title="IPTV-2", Colors HD
