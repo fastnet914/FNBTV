@@ -105,13 +105,13 @@ http://10.252.253.254/hls/mbc.m3u8
 http://10.252.253.254/hls/lotus.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4y2JFtM/Sony-TV.png" group-title="IPTV-1", Sony HD
 http://10.252.253.254/hls/sonyen.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NGPZwgBV/Sony-Sab.png" group-title="IPTV-3", SONY SUB
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NGPZwgBV/Sony-Sab.png" group-title="IPTV-1", SONY SUB
 http://172.16.50.2:8082/Sony_Sab/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pdft23qj/Sony-Max.png" group-title="IPTV-1", Sony Max HD
 http://10.252.253.254/hls/sony-maxhd.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/dtVdGYCq/Zee-TV.png" group-title="IPTV-3", Zee TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/dtVdGYCq/Zee-TV.png" group-title="IPTV-1", Zee TV
 http://172.16.50.2:8082/Zee-Hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/kMFFxshy/Zee-Cinema-HD.png" group-title="IPTV-3", Zee Cinema
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kMFFxshy/Zee-Cinema-HD.png" group-title="IPTV-1", Zee Cinema
 http://172.16.50.2:8082/ZeeCinemaHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QCbkGcp7/Star-Plus-HD.png" group-title="IPTV-1", Star Plus HD
 http://10.252.253.254/hls/starplus.m3u8
